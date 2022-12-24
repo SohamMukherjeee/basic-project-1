@@ -1,0 +1,87 @@
+.First-container{
+    background: url(Background-image.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+.first-First-container{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.Img-res1{
+    
+        width: 300px;
+        height: auto;
+        margin-right: 10rem;
+        
+}    
+.Img-res2{
+   
+    width: 300px;
+        height: auto;
+      margin-left: 2rem;
+      margin-left: 2rem;
+      
+}      
+.Img-res3{
+    
+    width: 300px;
+    height: auto;
+    margin-left: 4rem;
+   
+}   
+.caption{
+    display: block;
+    align-content: center;
+}
+    
+
+
+h1{
+    font-family: 'Newsreader', serif;
+    text-align: center;
+    font-size: 1.4rem;
+
+
+}
+p{
+    font-family: 'Newsreader', serif;
+font-family: 'PT Sans Narrow', sans-serif;
+text-align: center;
+}
+.Post-form .Post-inp{
+    display: block;
+    width: 80%;
+    margin-top: 1.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2rem;
+    padding: .6rem;
+    border: none;
+    outline: none;
+}
+.Post-form button{
+    background-color:antiquewhite;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    border: none;
+    outline: none;
+}
+.Song-product{
+    width: 80%;
+    height: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+}
+.Song-img{
+    float: left;
+    margin-left: 2rem;
+    width: 25%;
+}
+
